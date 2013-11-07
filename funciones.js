@@ -93,3 +93,6 @@ function pasoResultados(dParametros)
   msj += "Pago extra total: " + (pagoExt * dParametros["duracion"]) + "\n";
   console.log(msj);
 }
+
+//Estos me han destrozado el javascript
+// por no saber hacer comentarios

@@ -73,7 +73,7 @@ function calcularPago(interes, nPeriodo, valAct)
   {return valAct/((1 - 1/Math.pow(1 + interes, nPeriodo))/interes);}
 
 function pasoResultados(dParametros)
-{
+{ MI CARRO ME LO ROBARON
   msj = "";
   interes = dParametros["interes"]/100;
   interesM = (Math.pow(1 + interes, 1.0/12) - 1);

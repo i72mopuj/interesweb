@@ -98,6 +98,7 @@ function pasoResultados(dParametros)
 // por no saber hacer comentarios
 
 
+<<<<<<< HEAD
 
 
 
@@ -108,3 +109,6 @@ function pasoResultados(dParametros)
 
 
 //Quiero una barra de chocolate crunch!!!!
+=======
+//donde esta mi lanzamisiles?!
+>>>>>>> master

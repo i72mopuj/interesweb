@@ -1,5 +1,5 @@
 function enviar()
-{
+{EDITANDO ARCHIVO...
   var dParametros = pasoRevisar();
   if(dParametros === null)
     return;
